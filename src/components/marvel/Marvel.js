@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-export const MarvelScreen = () => {
+export const Marvel = () => {
     return (
         <div>
             <h1>Marvel Screen</h1>
